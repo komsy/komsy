@@ -13,25 +13,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # 👋 Hi there, I'm Morris Koome — Software Developer
 
 I'm a **motivated and skilled software developer** with a strong foundation in **web and mobile application development**, as well as **IT support**. I specialize in building **scalable, user-centric solutions** using modern full-stack technologies and mobile frameworks.
 
 ---
-
+-->
 ## 💼 About Me
 
-- 🔧 Full-stack web developer with **Laravel**, **Filament**, and **Node.js**
-- 📱 Mobile application developer using **Flutter (Dart)**
-- 🛠️ IT Support background with skills in **Windows/Linux administration**, **network troubleshooting**, and **customer service**
+- 🔧 Backend web developer with **Laravel**, **Filament**, and **Node.js**.
+- 📱  Mobile application developer using **Flutter (Dart)**.
+- 🤝 Open to collaborations in Laravel and Flutter.
+<!-- 🛠️ IT Support background with skills in **Windows/Linux administration**, **network troubleshooting**, and **customer service**
 - 🎓 Earned the **Google IT Support Professional Certificate**
 - 🔐 Knowledgeable in **IT security**, system troubleshooting, and issue resolution
 - 📈 Passionate about **problem-solving**, **continuous learning**, and **high-quality technical solutions**
 
 ---
-
+-->
 ## 🧰 Tech Stack
 
 ### 💻 Web Development
